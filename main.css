@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2? family = Raleway: wght @ 200 & display = swap');
+h1{ 
+    color: #BFBFBF;
+    width: 500px
+}
+.logo{
+    width: 500px
+}
+body{ font-family: 'Poppins', sans-serif;
+ background-color: #73726F 
+}
+.cabecalho{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.botao{ 
+    background-color: #BFBFBF;
+    padding: 5px 10px;
+}
+.botao:hover{
+    background-color: #1D1B59;
+    
+}
+p{ 
+    color:#BFBFBF
+
+}
+
+ 
